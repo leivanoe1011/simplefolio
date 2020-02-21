@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leivanoe1011/simplefolio"
+    "url": "git+https://leivanoe1011.github.io/simplefolio/"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leivanoe1011/simplefolio"
+    "url": "https://leivanoe1011.github.io/simplefolio/"
   },
-  "homepage": "https://github.com/leivanoe1011/simplefolio",
+  "homepage": "https://leivanoe1011.github.io/simplefolio/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.1",
